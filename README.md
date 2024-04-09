@@ -53,7 +53,7 @@ Thanks to the following person who has contributed to this project:
 
 ### Contact
 
-If you want to contact me, you can reach me at <your_email@address.com>.
+If you want to contact me, you can reach me at brawlixo123@gmail.com
 
 ### License
 
